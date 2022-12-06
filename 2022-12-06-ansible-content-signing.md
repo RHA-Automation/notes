@@ -131,5 +131,5 @@ ansible-galaxy collection verify rha.demo -c --keyring ~/ansible.kbx -vvvv --off
 
 - Red Hat official documentation - [Collections and content signing in private automation hub](https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.2/html-single/managing_red_hat_certified_and_ansible_galaxy_collections_in_automation_hub/index#assembly-collections-and-content-signing-in-pah)
 - Ansible blog article - [Digitally signing Ansible Content Collections using private automation hub](https://www.ansible.com/blog/digitally-signing-ansible-content-collections-using-private-automation-hub)
-- Ansible doumentation - [Installing collections with signature verification](https://docs.ansible.com/ansible/devel/collections_guide/collections_installing.html#installing-collections-with-signature-verification)
+- Ansible documentation - [Installing collections with signature verification](https://docs.ansible.com/ansible/devel/collections_guide/collections_installing.html#installing-collections-with-signature-verification)
 - Signing Service List from private automation hub API - `https://<pah-fqdn>/pulp/api/v3/signing-services/`
