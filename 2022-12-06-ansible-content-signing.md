@@ -42,9 +42,9 @@ Key-Type: default
 Key-Length: 4096
 Subkey-Type: default
 Subkey-Length: default
-Name-Real: Jason Breitweg
+Name-Real: My name
 Name-Comment: with no passphrase
-Name-Email: jbreitwe@redhat.com
+Name-Email: myaddress@example.com
 Expire-Date: 0
 %no-ask-passphrase
 %no-protection
